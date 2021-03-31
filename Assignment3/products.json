@@ -1,0 +1,49 @@
+{
+  "DEALS"   : [{
+         "id" : "Deal1",   
+         "name": "Chia Pet",
+         "price": "$19.99",
+         "description": "Gremlins fans, you can water this Chia Pet after midnight.",
+         "url" : "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1571690904-51KI2xgEJYL.jpg"
+
+    },
+
+     {
+        "id" : "Deal2",
+        "name": "ComfyCup transportation cup holder",
+        "price": "$9.99",
+        "description": "This cup holder attaches to poles on the subway, but hey, we have all seen weirder things on the subway.",
+        "url" : "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1571691541-41hfSekA5rL.jpg"
+
+    },
+
+    {
+        
+        "id": "Deal3",
+        "name": "Frog Eye Mask",
+        "price": "$7.99",
+        "description": "This frog sleeping mask will scare everyone away from interrupting your beauty sleep.",
+        "url" : "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1571687184-frog-sleeping-mask-1571687150.jpg"
+
+
+    },
+
+    {
+        "id": "Deal4",
+        "name": "karaoke Earphone",
+        "price": "$19.99",
+        "description": "This microphone connects back to your own earbud, in case you can't get enough of your own voice.",
+        "url" : "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1571686268-51ZIPzbooyL.jpg"
+
+    },
+
+    {
+        
+        "id": "Deal5",    
+        "name": "Cat Butt Tissue",
+        "price": "$15.99",
+        "description": "This tissue box makes the perfect gift for a good hostess friend or someone who just loves cats.",
+        "url" : "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1565300787-51YLFnUtF5L.jpg"
+        
+    }]
+}
